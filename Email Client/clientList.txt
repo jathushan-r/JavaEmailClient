@@ -1,0 +1,18 @@
+Personal: John,Johnny,johnny@example.com,1998/05/15
+Office_friend: Emily,emily@example.com,secretary,1999/09/28
+Official: Michael,mike@michaelcorp.com,CEO
+Personal: Sarah,SarBear,sarah@example.com,2001/03/20
+Office_friend: David,dave@example.com,assistant,2000/11/10
+Official: Jennifer,jen@example.com,manager
+Personal: Alex,Alexa,alex@example.com,1997/07/12
+Office_friend: Lisa,lisa@example.com,coordinator,1998/02/05
+Official: Peter,peter@example.com,Director
+Personal: Rachel,Ray,rachel@example.com,1995/09/30
+Office_friend: Kevin,kevin@example.com,analyst,1996/12/18
+Official: Jessica,jess@example.com,President
+Personal: Mark,Marky,mark@example.com,1990/04/25
+Office_friend: Laura,laura@example.com,assistant manager,1991/08/07
+Official: Thomas,tom@example.com,VP of Operations
+Personal: Emma,Em,emma@example.com,1993/06/14
+Office_friend: Jason,jay@example.com,supervisor,1994/10/02
+Official: Olivia,olivia@example.com,COO
